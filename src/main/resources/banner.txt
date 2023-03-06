@@ -1,0 +1,8 @@
+${AnsiColor.BRIGHT_MAGENTA}
+   ____________  _______  __
+  / __/_  __/ / / / _ \ \/ /
+ _\ \  / / / /_/ / // /\  /
+/___/ /_/  \____/____/ /_/
+
+${AnsiColor.BRIGHT_YELLOW}My ${AnsiColor.BRIGHT_RED}Study ${AnsiColor.BRIGHT_GREEN}Project ${AnsiColor.DEFAULT}
+
